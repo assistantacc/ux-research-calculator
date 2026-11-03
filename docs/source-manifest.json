@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "source": "Swiss Research Excelbook 1.2 EN.xlsx",
+      "sha256": "a1bb395e72d5052a0875f17a7b6735a6a4a7dca718e335e1a63989c17ff9ffba",
+      "local": "swiss-en.xlsx"
+    },
+    {
+      "source": "Swiss Research Excelbook 1.2 RU.xlsx",
+      "sha256": "b95b4a111f29f7c29ab7d4b9a77620081cc941eacdff25f05ae14cc33d91efec",
+      "local": "swiss-ru.xlsx"
+    },
+    {
+      "source": "Тестовые данные V7.xlsx",
+      "sha256": "9d651d04d3a2284403e0ebbd162066f7ff9ed6974855e3d551ec1c3ae0085225",
+      "local": "test-data.xlsx"
+    }
+  ],
+  "commit": "8ded7c8eb34e588d81b6a0622455e0bec042cdff",
+  "repository": "https://github.com/UXRozum/Swiss_Excelbook"
+}
